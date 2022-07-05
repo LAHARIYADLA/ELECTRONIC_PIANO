@@ -6,3 +6,5 @@ In this project, Arduino use push button as the notes input through analog pin A
 https://github.com/LAHARIYADLA/ELECTRONIC_PIANO/blob/main/SUMMER_PROJECT_Task_1.pdf
 https://github.com/LAHARIYADLA/ELECTRONIC_PIANO/blob/main/SUMMER_PROJECT_Task_2.pdf
 ![image](https://user-images.githubusercontent.com/84332506/177263184-e01b5e7f-3da6-40ac-8cc9-eda28b861eb8.png)
+The final circuit is made on tinker card as
+https://www.tinkercad.com/things/i3PVlVoYpGf-task-5-lahari/editel?sharecode=H1vj-5QE3-mXrocd839_sos5Opsphqhba8H8vVTCY1Y
